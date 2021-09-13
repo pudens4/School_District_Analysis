@@ -14,4 +14,6 @@ Scores by school size
 Scores by school type
 
 ## Summary
-m
+Pretty difficult working with jupyter 
+the UI is just not efficient enough 
+bugs are annoying in jupyter because there's no editor to show or underline the error
